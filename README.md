@@ -168,8 +168,7 @@ WalletOS runs entirely on the **Base Sepolia testnet** using **test USDC** (free
 
 ## Team
 
-- **Rohan Dash** — agent & money backend
-- **Rishabh Abhishetty** — frontend, realtime & demo
+- Rohan Dash, Rishabh Abhishetty
 
 ## License
 
